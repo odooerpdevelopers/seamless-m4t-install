@@ -62,7 +62,8 @@ cd seamless_communication
 
 ```
 pip install .
-conda install -y -c conda-forge libsndfile
+# optional
+# conda install -y -c conda-forge libsndfile
 conda install -c conda-forge libsndfile==1.0.31
 
 ```
