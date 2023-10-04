@@ -1,7 +1,7 @@
 # Seamless M4T for Linux
 ### Seamless M4T Linux installation Guide
 
-This installation guide has been tested on Debian 12 Bookworm on a Lenovo Legyon 4 Core i7, 16GB RAM, SSD 1TB, Nvidia GTX 1055 3GB Laptop. 
+This installation guide has been tested on Debian 12 Bookworm on a Lenovo Legion 4 Core i7, 16GB RAM, SSD 1TB, Nvidia GTX 1055 3GB Laptop. 
 
 It contains the fundamental steps to be able to launch the Meta Seamless M4T project, I encountered several problems along the way and that's why I developed this guide so that you can jump over the obstacles. 
 
