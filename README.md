@@ -75,3 +75,12 @@ pip install -r requirements.txt
 python app.py share=True
 
 ```
+
+### Additional Resources
+
+Nvidia Cuda Linux
+
+https://developer.download.nvidia.com/compute/redist/ffmpeg/1511-patch/FFMPEG-with-NVIDIA-Acceleration-on-Ubuntu_UG_v01.pdf
+
+
+https://linuxconfig.org/how-to-install-nvidia-driver-on-debian-12-bookworm-linux
